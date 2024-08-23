@@ -2,47 +2,47 @@
 
 **Overview**
 
-MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
+	MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
 
 
 **Key Features**
 
-**- Patient Registration and Profile Management:** Easily onboard new patients and maintain detailed profiles, including personal information, medical history, and contact details.
+	**- Patient Registration and Profile Management:** Easily onboard new patients and maintain detailed profiles, including personal information, medical history, and contact details.
 
-**- Appointment Scheduling and Management:** Efficiently schedule and manage patient appointments, view availability, and send automated reminders.
+	**- Appointment Scheduling and Management:** Efficiently schedule and manage patient appointments, view availability, and send automated reminders.
 
-**- Medical Records and Document Management:** Securely store and access patient medical records, including test results, prescriptions, and notes.
+	**- Medical Records and Document Management:** Securely store and access patient medical records, including test results, prescriptions, and notes.
 
-**- Pharmacy Management and Medication Ordering:** Integrate with pharmacy systems to manage medication inventories, process orders, and track prescription refills.
+	**- Pharmacy Management and Medication Ordering:** Integrate with pharmacy systems to manage medication inventories, process orders, and track prescription refills.
 
-**- Reporting and Analytics:** Generate comprehensive reports and analytics to gain insights into clinic operations, patient trends, and overall performance.
+	**- Reporting and Analytics:** Generate comprehensive reports and analytics to gain insights into clinic operations, patient trends, and overall performance.
 
-**- Responsive Design and Cross-Device Compatibility:** Optimized for seamless user experience across desktop, mobile, and tablet devices.
+	**- Responsive Design and Cross-Device Compatibility:** Optimized for seamless user experience across desktop, mobile, and tablet devices.
 
-**- Security and User Access Control:** Implement robust security measures and granular user permissions to ensure data privacy and compliance.
+	**- Security and User Access Control:** Implement robust security measures and granular user permissions to ensure data privacy and compliance.
 
-**- Dashboard and Intuitive User Interface:** Provide a centralized dashboard for quick access to key information and streamlined workflow.
+	**- Dashboard and Intuitive User Interface:** Provide a centralized dashboard for quick access to key information and streamlined workflow.
 
-**- Integration with External Systems:** Seamlessly integrate with electronic health record (EHR) systems, billing platforms, and other healthcare technologies.
+	**- Integration with External Systems:** Seamlessly integrate with electronic health record (EHR) systems, billing platforms, and other healthcare technologies.
 
 
 **Technologies Used**
 
-**ASP.NET:** The core framework for developing the web-based application.
+	**ASP.NET:** The core framework for developing the web-based application.
 
-**C#:** The primary programming language used for the backend logic and functionality.
+	**C#:** The primary programming language used for the backend logic and functionality.
 
-**SQL Server:** The database management system for storing and managing clinic data.
+	**SQL Server:** The database management system for storing and managing clinic data.
 
-**HTML/CSS/JavaScript:** Used for building the responsive and interactive user interface.
+	**HTML/CSS/JavaScript:** Used for building the responsive and interactive user interface.
 
-**jQuery:** A JavaScript library for simplifying DOM manipulation and event handling.
+	**jQuery:** A JavaScript library for simplifying DOM manipulation and event handling.
 
-**Bootstrap:** A CSS framework for designing and styling the user interface.
+	**Bootstrap:** A CSS framework for designing and styling the user interface.
 
-**AJAX:** Asynchronous JavaScript and XML for efficient data retrieval and updates.
+	**AJAX:** Asynchronous JavaScript and XML for efficient data retrieval and updates.
 
-**Web Services:** Implemented to facilitate communication with external systems and APIs.
+	**Web Services:** Implemented to facilitate communication with external systems and APIs.
 
 
 **Setup and Installation**

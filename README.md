@@ -7,23 +7,23 @@
 
 **Key Features**
 
-	**- Patient Registration and Profile Management:** Easily onboard new patients and maintain detailed profiles, including personal information, medical history, and contact details.
+**- Patient Registration and Profile Management:** Easily onboard new patients and maintain detailed profiles, including personal information, medical history, and contact details.
 
-	**- Appointment Scheduling and Management:** Efficiently schedule and manage patient appointments, view availability, and send automated reminders.
+**- Appointment Scheduling and Management:** Efficiently schedule and manage patient appointments, view availability, and send automated reminders.
 
-	**- Medical Records and Document Management:** Securely store and access patient medical records, including test results, prescriptions, and notes.
+**- Medical Records and Document Management:** Securely store and access patient medical records, including test results, prescriptions, and notes.
 
-	**- Pharmacy Management and Medication Ordering:** Integrate with pharmacy systems to manage medication inventories, process orders, and track prescription refills.
+**- Pharmacy Management and Medication Ordering:** Integrate with pharmacy systems to manage medication inventories, process orders, and track prescription refills.
 
-	**- Reporting and Analytics:** Generate comprehensive reports and analytics to gain insights into clinic operations, patient trends, and overall performance.
+**- Reporting and Analytics:** Generate comprehensive reports and analytics to gain insights into clinic operations, patient trends, and overall performance.
 
-	**- Responsive Design and Cross-Device Compatibility:** Optimized for seamless user experience across desktop, mobile, and tablet devices.
+**- Responsive Design and Cross-Device Compatibility:** Optimized for seamless user experience across desktop, mobile, and tablet devices.
 
-	**- Security and User Access Control:** Implement robust security measures and granular user permissions to ensure data privacy and compliance.
+**- Security and User Access Control:** Implement robust security measures and granular user permissions to ensure data privacy and compliance.
 
-	**- Dashboard and Intuitive User Interface:** Provide a centralized dashboard for quick access to key information and streamlined workflow.
+**- Dashboard and Intuitive User Interface:** Provide a centralized dashboard for quick access to key information and streamlined workflow.
 
-	**- Integration with External Systems:** Seamlessly integrate with electronic health record (EHR) systems, billing platforms, and other healthcare technologies.
+**- Integration with External Systems:** Seamlessly integrate with electronic health record (EHR) systems, billing platforms, and other healthcare technologies.
 
 
 **Technologies Used**

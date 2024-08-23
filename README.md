@@ -2,7 +2,7 @@
 
 **Overview**
 
-	MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
+MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
 
 
 **Key Features**
@@ -28,21 +28,21 @@
 
 **Technologies Used**
 
-	**ASP.NET:** The core framework for developing the web-based application.
+**ASP.NET:** The core framework for developing the web-based application.
 
-	**C#:** The primary programming language used for the backend logic and functionality.
+**C#:** The primary programming language used for the backend logic and functionality.
 
-	**SQL Server:** The database management system for storing and managing clinic data.
+**SQL Server:** The database management system for storing and managing clinic data.
 
-	**HTML/CSS/JavaScript:** Used for building the responsive and interactive user interface.
+**HTML/CSS/JavaScript:** Used for building the responsive and interactive user interface.
 
-	**jQuery:** A JavaScript library for simplifying DOM manipulation and event handling.
+**jQuery:** A JavaScript library for simplifying DOM manipulation and event handling.
 
-	**Bootstrap:** A CSS framework for designing and styling the user interface.
+**Bootstrap:** A CSS framework for designing and styling the user interface.
 
-	**AJAX:** Asynchronous JavaScript and XML for efficient data retrieval and updates.
+**AJAX:** Asynchronous JavaScript and XML for efficient data retrieval and updates.
 
-	**Web Services:** Implemented to facilitate communication with external systems and APIs.
+**Web Services:** Implemented to facilitate communication with external systems and APIs.
 
 
 **Setup and Installation**

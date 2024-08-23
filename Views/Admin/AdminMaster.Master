@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="EClinic.Views.Admin.AdminMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>As-Shifa Admin Panel</title>
+    <link rel="stylesheet" href="../../Libs/bootstrap-5.3.3-dist/css/bootstrap.min.css" />
+    <style>
+        /* Navbar custom styles */
+        .navbar {
+            background-color: white; /* Light background for navbar */
+        }
+
+        .navbar-brand {
+            color: #0066b2 !important; /* Dark blue color for brand */
+            font-weight: bold;
+        }
+
+        .navbar-brand:hover {
+            color: #3498db !important; /* Bright blue on hover */
+        }
+
+        .nav-link {
+            color: black !important; /* Black color for links */
+            font-size: 16px;
+        }
+
+        .nav-link:hover {
+            color: #3498db !important; /* Bright blue on hover */
+        }
+
+        /* Content Placeholder Background */
+        .content-placeholder {
+            background-color: #ffffff; /* White background */
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Softer shadow */
+            padding: 30px;
+        }
+
+        /* Add hover effect to form */
+        form:hover {
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); /* More prominent shadow on hover */
+        }
+
+        /* Responsive design adjustments */
+        @media (max-width: 768px) {
+            .navbar-brand {
+                font-size: 1.2rem;
+            }
+            .nav-link {
+                font-size: 14px;
+            }
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="../Guest/Home.aspx">As-Shifa</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="Doctors.aspx">Doctors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Laboratorian.aspx">Laboratorian</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Receptionist.aspx">Receptionist</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Login.aspx">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <form id="form1" runat="server" class="content-placeholder">
+        <asp:ContentPlaceHolder ID="Mybody" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+
+    <!-- Include Bootstrap JS -->
+    <script src="../../Libs/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

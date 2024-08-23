@@ -2,7 +2,7 @@
 
 **Overview**
 
-MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
+    MediManage is a robust and feature-rich online clinic management system developed using ASP.NET. The system provides a comprehensive solution for healthcare providers to streamline their clinic operations, from patient registration and appointment scheduling to medical records management and pharmacy integration.
 
 
 **Key Features**
